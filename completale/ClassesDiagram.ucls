@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" language="java" name="daoImpl.DAOManager" project="completaleJPA" 
+    file="/completaleJPA/src/daoImpl/DAOManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2252" y="1976"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="servlets.RetrieveFollowingRequests" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/RetrieveFollowingRequests.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="425" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="servlets.RetrieveTimeline" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/RetrieveTimeline.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1065" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="servlets.SeeStory" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/SeeStory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="94" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="servlets.UpdateStory" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/UpdateStory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1208" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="servlets.CloseSession" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/CloseSession.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4936" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="servlets.RetrieveFollowersAndFollowings" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/RetrieveFollowersAndFollowings.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="665" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="servlets.AddNewFragment" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/AddNewFragment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1347" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="servlets.RetrieveSearchFollowers" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/RetrieveSearchFollowers.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1521" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="servlets.Initio" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/Initio.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4789" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="servlets.CreateChallenge" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/CreateChallenge.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3153" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="servlets.AcceptFollowRequest" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/AcceptFollowRequest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-65" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="servlets.RetrieveStoriesParticipationRequests" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/RetrieveStoriesParticipationRequests.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4566" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="servlets.UpdateChallengeLeader" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/UpdateChallengeLeader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1949" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="servlets.AddLike" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/AddLike.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-681" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="servlets.RetrieveDataUser" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/RetrieveDataUser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2121" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="servlets.DataCharger" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/DataCharger.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2601" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="servlets.RetrieveSearch" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/RetrieveSearch.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="889" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="servlets.Unsuscribe" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/Unsuscribe.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-561" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="servlets.AcceptParticipationStory" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/AcceptParticipationStory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4292" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="servlets.ChangeDataUser" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/ChangeDataUser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2260" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="servlets.FinishStory" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/FinishStory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-413" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="servlets.UpdateData" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/UpdateData.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2431" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="servlets.ParticipateInChallenge" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/ParticipateInChallenge.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3363" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="servlets.CreateFollowRequest" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/CreateFollowRequest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-249" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="servlets.UpdateChallengeParticipant" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/UpdateChallengeParticipant.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1727" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="servlets.CreateStory" project="completaleWEB" 
+    file="/completaleWEB/src/servlets/CreateStory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4017" y="552"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="classes.JSONParser" project="completaleWEB" 
+    file="/completaleWEB/src/classes/JSONParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2005" y="70"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="classes.FillDataMainChallengeLeader" project="completaleWEB" 
+    file="/completaleWEB/src/classes/FillDataMainChallengeLeader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2755" y="-145"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="classes.LikesAndIfIFollowAllFollower" project="completaleWEB" 
+    file="/completaleWEB/src/classes/LikesAndIfIFollowAllFollower.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="705" y="70"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="classes.FillStory" project="completaleWEB" 
+    file="/completaleWEB/src/classes/FillStory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3984" y="70"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="classes.FillDataMain" project="completaleWEB" 
+    file="/completaleWEB/src/classes/FillDataMain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="57" width="92" x="2821" y="42"/>    
+    <display autosize="false" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="classes.FillerForMainMainStoriesAndChallenges" project="completaleWEB" 
+    file="/completaleWEB/src/classes/FillerForMainMainStoriesAndChallenges.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3170" y="70"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="classes.Validation" project="completaleWEB" 
+    file="/completaleWEB/src/classes/Validation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2375" y="70"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="classes.StoriesFromStoryPKRaw" project="completaleWEB" 
+    file="/completaleWEB/src/classes/StoriesFromStoryPKRaw.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4330" y="70"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="listeners.SessionRememberMeSetTimming" project="completaleWEB" 
+    file="/completaleWEB/src/listeners/SessionRememberMeSetTimming.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-265" y="70"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <association id="37">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="38" name="daoManager"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="40">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="41">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="42" name="daoManager"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="45" name="daoManager"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="48" name="daoManager"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="51" name="daoManager"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="54" name="daoManager"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="56">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="57">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="58" name="daoManager"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="60">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="61">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="62">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="63">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="64">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="65" name="daoManager"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="67">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="68">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="69">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <association id="70">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="71" name="daoManager"/>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="73">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="74" name="daoManager"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="76">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="77">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="78">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="79" name="daoManager"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="81">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="82">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="83">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="84">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="85">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="86">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <association id="87">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="88" name="daoManager"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="90">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="91" name="daoManager"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="93">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <association id="94">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="95" name="daoManager"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="97">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="98" name="daoManager"/>      
+      <multiplicity id="99" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="100">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="101" name="daoManager"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="103">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="104">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="105">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="106">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <dependency id="107">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <association id="108">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="109" name="daoManager"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="111">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <dependency id="112">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <association id="113">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="114" name="daoManager"/>      
+      <multiplicity id="115" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="116">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="117" name="daoManager"/>      
+      <multiplicity id="118" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="119">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <association id="120">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="121" name="daoManager"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="123">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="124" name="daoManager"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="126">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <association id="127">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="128" name="daoManager"/>      
+      <multiplicity id="129" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="130">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="131">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="132">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="133" name="daoManager"/>      
+      <multiplicity id="134" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="135">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="136" name="daoManager"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="138">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="false" package="false" protected="false" private="false" static="false"/>    
+    <operations public="false" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="false" multiplicity="false"/>
+</class-diagram>

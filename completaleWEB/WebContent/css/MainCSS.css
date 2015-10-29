@@ -1,0 +1,368 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-image:url(../img/Background.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed; 
+    background-size: cover;
+    font-size:100%;
+    position:absolute;
+    z-index: -1;
+    margin: 0;
+    padding: 0;
+}
+
+#mainTitle{
+	position:absolute;
+	margin-top:0.2%;
+	margin-left:43.5%;
+	color:white;
+	font-family:"Blackadder ITC", "Arial", cursive, sans-serif;
+	font-style:italic;
+	font-size:4em;
+}
+
+.jumbotron{
+	margin-top:2%;
+	margin-right:10%;
+	margin-left:10%;
+	padding-top:2%;
+	padding-left:10%;
+	padding-right:10%;
+	border-radius:10px;
+	background-color:grey;
+}
+
+.adjustNavBar{
+	width:97%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+a:not(.titleHref){
+	width:100%;
+	text-align:center;
+	font-family:"Arial", cursive, sans-serif;
+	font-size:2em;
+	font-weight:bold;
+}
+
+li.mainLi{
+	width:33%;
+}
+
+.inline{
+	width:100%;
+}
+
+.user{
+	font-size:23em;
+	margin-top:4%;
+	margin-left:39.3%;
+	margin-right:39.3%;
+
+}
+
+#button1{
+	width:112px;
+	margin:auto;
+	margin-top:2%;
+}
+
+#button1Button:hover{
+	cursor:default;
+	color:rgb(249,249,249);
+}
+
+#button1Button{
+	background-color:black;
+	color:rgb(249,249,249);
+}
+
+#button2{
+	float:left;
+}
+
+#button3{
+	float:right;
+}
+
+#adjustButtons23{
+	position:relative;
+	display:block;
+	margin-left:30%;
+	margin-right:30%;
+	margin-top:2%;
+	min-width: 304px;
+}
+
+.adjustList{
+	margin-left:5%;
+	margin-top:5.5%;
+}
+
+.adjustText{
+	float:left; 
+	font-family:"Arial", cursive, sans-serif;
+	font-size:1.1em;
+	font-weight:bold;
+}
+
+.adjustBadge{
+	float:right;
+}
+
+.hiddenLetter{
+	visibility:hidden;
+}
+
+#timeline{
+	display:none;
+}
+
+#create{
+	display:none;
+}
+
+#adjustButton1{
+	margin-top:5%;
+	margin-bottom:5%;
+}
+
+#adjustTitleCreate1{
+	font-size:5em;
+	font-weight:bold;
+}
+
+#adjustTitleCreate2{
+	font-size:5em;
+	font-weight:bold;
+}
+
+#adjustTitleModal{
+	text-align: center;
+	font-size: 5em;
+}
+
+#buttonModalStory{
+	margin-right: 40%;
+	font-weight: bold;
+}
+
+.adjustLabel{
+	font-size: 1.7em;
+	float:left;
+}
+
+#closeSesionGlyphicon{
+	margin-left:63%;
+	color:rgb(208,139,0);
+}
+
+#configureGlyphicon{
+	margin-left:-7%;
+	color:rgb(239,63,80);
+}
+
+.drawGlyphicon{
+	position:absolute;
+	margin-top:3.9%;
+	padding:0.5%;
+	background-color:rgb(44,44,44);
+	border-radius:10%;
+	font-size: 1.95em;
+}
+
+#changeDataA{
+	color:grey;
+}
+
+#closeAccountA{
+	color:#404040;
+}
+
+.formatText{
+	font-size:1.5em;
+	font-weight:bold;
+}
+
+#passwordPattern21{
+	color:grey;
+}
+
+.hyde{
+	display:none;
+}
+
+#closeAccount{
+	display:none;
+}
+
+#buttonChangeData{
+	position:relative;
+	margin-left:42%;
+}
+
+#adjustP{
+	text-align:justify;
+}
+
+#buttonUnsuscribe{
+	position:relative;
+	margin-left:40%;
+}
+
+.buttonChangeAndErase{
+	font-weight: bold;
+}
+
+.mousePointer{
+	cursor: pointer;
+}
+
+#badgeSum{
+	background-color: rgb(239,63,80);
+	display:none;
+}
+
+li.mainLi{
+	width:33%;
+}
+
+li.secondLi{
+	width:50%;
+}
+
+#ChallengesTimeline{
+	display:none;
+}
+
+.sameRow{
+	display:block;
+	float:left;
+	width:100%;
+	margin-bottom: 2%;
+}
+
+.titleTimeline{
+	display:block;
+	float:left;
+	font-size:2.5em;
+	font-family:"Arial", cursive, sans-serif;
+	font-weight:bold;
+}
+
+.buttonTimeline{
+	display:block;
+	float:right;
+	margin-top: 1%;
+}
+
+.likes{
+	display:inline-block;
+	margin-left:21%;
+}
+
+.state{
+	display:block;
+	float:right;
+	margin-right:0.5%;
+	font-style:italic;
+}
+
+.adjustTimeline{
+	width: 97%;
+	margin-left: 1.5%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+}
+
+.dateTimeline{
+	display:inline-block;
+	margin-left:13%;
+}
+
+#divNames{
+	float:left;
+	margin-top: 4%;
+	margin-bottom: -3%;
+	color:grey;
+	font-style: italic;
+}
+
+#divNamesTwo{
+	float:left;
+	margin-top: 4%;
+	margin-bottom: -3%;
+	color:grey;
+	font-style: italic;
+}
+
+#inputParticipantsStory{
+	float:right;
+}
+
+#inputParticipantsStoryTwo{
+	float:right;
+}
+
+#addUser{
+	float:right;
+}
+
+#addUserTwo{
+	float:right;
+}
+
+#adjustElementsInside{
+	padding-top: 1%;
+	padding-bottom: 7%;
+}
+
+#adjustElementsInsideTwo{
+	padding-top: 1%;
+	padding-bottom: 7%;
+}
+
+#buttonModalChallenge{
+	margin-right: 43%;
+	font-weight: bold;
+}
+
+#buttonModalStoryChallenge{
+	margin-right: 40%;
+	font-weight: bold;
+}
+
+#addChallenge{
+	display:none;
+}
+
+#adjustWinnerMessage{
+	text-align: left;
+}
+
+.titleHref:link {
+    text-decoration: none;
+    color:black;
+}
+
+.titleHref:visited {
+    text-decoration: none;
+    color:black;
+}
+
+.titleHref:hover {
+    text-decoration: none;
+    color:black;
+}
+
+.titleHref:active {
+    text-decoration: none;
+    color:black;
+}
+
+.titleHref{
+	color:black;
+}

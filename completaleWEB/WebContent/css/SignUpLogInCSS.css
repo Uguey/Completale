@@ -1,0 +1,99 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	background-image:url(../img/Background.jpg);
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-attachment:fixed; 
+    background-size:cover;
+    font-size:100%;
+}
+
+h1{
+	text-align:right;
+	margin:auto;
+	padding-right:7%;
+	font-family:"Arial", cursive, sans-serif;
+	color:white;
+	font-size:8em;
+}
+
+#form1{
+	position:relative;
+	margin-left:6%;
+	margin-right:10%;
+}
+
+.panel{
+	margin-left:3.85%;
+}
+
+.panel-heading{
+	background-color:white;
+}
+
+.panel-body{
+	background-color:rgb(72,72,72);
+}
+
+.active{
+	color:grey;
+}
+
+label{
+	color:white;
+	font-size:1.5em;
+	font-family:"Arial", cursive, sans-serif;
+	padding-bottom:1%;
+}
+
+a{
+	text-decoration:none;
+	font-size:1.5em;
+	font-family:"Arial", cursive, sans-serif;
+}
+
+.bigger{
+	position:relative;
+	padding-left:36px;
+	padding-right:36px;
+}
+
+input[type="submit"]{
+	position:relative;
+	margin-left:40%;
+}
+
+#DateDeAlta{
+	display:none;
+}
+
+#IniciaSesionA{
+	color:grey;
+}
+
+#DateDeAltaA{
+	color:#404040;
+}
+
+.formatText{
+	font-size:1.5em;
+	font-weight:bold;
+}
+
+#passwordPattern21{
+	color:white;
+}
+
+.hyde{
+	display:none;
+}
+
+.adjustSubmit{
+	font-weight:bold;
+}
+
+#adjustTitle{
+	margin-top:12%;
+	margin-bottom:2%;
+}
